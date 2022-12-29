@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bot-mama-ffcn",
+  "private_key_id": "3ce74e471f0bb7a8905c03b31820c5d4e9ebd76f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNnyrq1hbof5Ak\npotleg1NcJD3oZv9p3kG+AIfcmlHLld4Atb2Ik7GVNaqc2LQ2Ofuf5dilbjGJevX\n2vE2VKnQf65/AX+euOlNUpun9Ci5dUUOWD9+ZGl4eZeGEP17/Yim+VHH022mAHP/\n2loR5e4rFCQItG9UtbYe9QLIYKAc0DBkZRriPFUhWEPtipbEKkla4QmOx9ZH6D3q\nzrAuE1yaNtRqsCusrRCXH+CZX5uUckygC3pQnHp6kBJAU9bMROSBCmyWZzzbnJHU\n3dfrgqLiERpj9QCeBOSzG5w2JMJFMyLF55nZxniXfpBnSXbEaPOfCxm4RznWkk/N\nclfqwAzzAgMBAAECggEAH3oUt1NjuV7BwaKPJ08qVyb6wjXGq+tlvxfbN1Yr4J4q\n/K+umYpB9eGJ5Rj50Q/LXXrBwXE7EnY+ptIY5+DJCCZrn3yqvTEAYfpZ4rmhPFbD\n5gDDY4VakftHI1pZe5AhybHT/5uRpv5dw5Z5AFFrBsQ0CfMZMeYJRa7rKKKGEDLW\nGnHJTLKcQnxUuWFsrGj4PibJ4WJyIHOvAuyWIqp5pviZ83yLu0GSzFDEuquD9vBz\nfriGflrvBzjN0D9zMgIOpzMe1V29iqFQdVyL8zegb0l4k9gTpYh6YWtRfC3HWa/n\nK8/2Ax7oidxxxKWS+fItb+wFxYti1C5kPTekguw1kQKBgQD6WyEspM1EtEYyvHby\njwCmCrMXM1q46bA1S8Mp7OvwKhllC+T1YDZkrP8P7zboBsQfy4AOjYgBW3AqUY/g\n/0f/kc0KRo75pYRuOUHTSvNM1tmhNgREmfc/bOqT0lq9WecYrS9AqPTCC8uYxh9Q\n5HQKR7A6AbOqwHJolEwnC2VAQwKBgQDSQd1ypgFNtzICWR85jPAOBcIV0koHSR8A\nmy07IDVpXVCwJKP2FwxuCdthy2oMEsRM0wNYf+vAOI6CQjMWpGwK4nYlWhnK8J1w\nIQm/DFRMac+VhVhcB9OfOrDmuFiR0AAD053T8EASATfobor04azXbPtR/VtSkiuU\nTYCHO7vNkQKBgQDaWfbSIB5jqLN89sDrhuuy5awTNRgQJMkpgp2CCIAzJBSn+7rC\nhBqMrhF7jVCfB5+wd2WFy8zuGhj239IUE7Jw5XImXym99K1PESMnLLyMrOp830bT\nqlFpgQ4KxTGc6jdTX2DSDUoDoBP/d/TCMa4/dQzvWqKf718ZdRYCC79QTwKBgQC5\nZzcc5+FyZD6G74unNe5gjxdMIrkAn6vk3vENmCNBG/YQvN6QHFbrmWmIXNTQfKP4\nkoH6wiJix/xyRGnEZ4yWNIe1/DOOToql25w6iWa0UwGneYQm8wfa+ugPKzN+sImy\n1iHwR4RX3BcusHt74JyHAiTDccPbleUzyvuxRC0g4QKBgQDjLE2bFmSo7PVa2/0I\nMpt3tPg14Ff1QIH5YhU03dh0Ridl6xUMU0Qla/KJ3ZFhT6aTGaJB0ZWNQu+FvZkt\nYT1a3667Km4b1iJxawJIScYll86o0LGxwArvFgtqseGPz7084U7rf+rM+Py0r2RN\ndRJaSuiZwhyV96uFgh1+54tCgw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-mama@bot-mama-ffcn.iam.gserviceaccount.com",
+  "client_id": "103617952102105534464",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-mama%40bot-mama-ffcn.iam.gserviceaccount.com"
+}

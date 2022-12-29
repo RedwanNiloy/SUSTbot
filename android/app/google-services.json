@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "504406591374",
+    "project_id": "sust-bot",
+    "storage_bucket": "sust-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504406591374:android:31821df1f5e533cbb106df",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504406591374-m7584niepbl1sifeht1lp5o40bb0vppn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbot",
+            "certificate_hash": "4fccffe855cf39686706af232dbd697cef78a9d1"
+          }
+        },
+        {
+          "client_id": "504406591374-qhn2s7iqfi3b1dnupenp9ev1s6udeka2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7PWcVA6a5SKqwzv7fZSyxG1TuVfwQgMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504406591374-qhn2s7iqfi3b1dnupenp9ev1s6udeka2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
